@@ -41,7 +41,6 @@ urban-traffic-accidents-analysis/
 ├── screenshots/
 │   ├── dashboard1.png                      # Overview dashboard
 │   └── dashboard2.png                      # Risk analysis dashboard
-├── LICENSE
 └── README.md
 ```
 
