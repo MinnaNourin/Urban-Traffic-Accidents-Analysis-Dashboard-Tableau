@@ -19,7 +19,7 @@ A comprehensive **Tableau dashboard** analyzing urban traffic accident patterns 
 <img src="dashboard2.png" width="700"/>
 ---
 
-## Key Metrics
+## 🔑 Key Metrics
 
 | Metric | Value |
 |---|---|
@@ -73,7 +73,7 @@ urban-traffic-accidents-analysis/
 
 ---
 
-## Filters & Interactivity
+## 🎛️ Filters & Interactivity
 
 The dashboard supports dynamic filtering by:
 - **Year** | **Severity** | **Weather** | **Road Condition**
