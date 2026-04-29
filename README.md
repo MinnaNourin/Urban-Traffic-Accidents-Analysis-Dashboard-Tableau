@@ -3,24 +3,23 @@
 ![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Domain](https://img.shields.io/badge/Domain-Road%20Safety%20Analytics-B91C1C?style=for-the-badge)
 ![Dataset](https://img.shields.io/badge/Data%20Source-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 A comprehensive **Tableau dashboard** analyzing urban traffic accident patterns across India — covering fatality trends, geographic hotspots, causal factors, and road/weather risk analysis.
 
-🔗 **Live Dashboard:** https://public.tableau.com/views/UrbanTrafficAccidentsAnalysis/Overview
+**Live Dashboard:** https://public.tableau.com/views/UrbanTrafficAccidentsAnalysis/Overview
+
 ---
 
 ## 📊 Dashboard Preview
 
 ### Overview Dashboard
-![Overview Dashboard](dashboard1.png)
+<img src="dashboard1.png" width="700"/>
 
 ### Accident Causes & Risk Analysis
-![Risk Analysis Dashboard](dashboard2.png)
-
+<img src="dashboard2.png" width="700"/>
 ---
 
-## 🔑 Key Metrics
+## Key Metrics
 
 | Metric | Value |
 |---|---|
@@ -66,15 +65,15 @@ urban-traffic-accidents-analysis/
 
 ## 🔍 Key Insights
 
-- 🌧️ **Monsoon Spike** — Fatalities nearly double between June–September, aligning with the Indian monsoon season
-- 🛣️ **Dry Road Paradox** — Dry roads have the highest accident count (310K), likely due to higher speeds and driver complacency
-- 📍 **Central India Risk** — Madhya Pradesh alone accounts for ~11% of all accidents nationally
-- 👤 **Human + Infrastructure** — Poor roads and human error together cause ~60% of all accidents
-- 🚗 **Congestion Pressure** — Average congestion rate of 66.7% signals severely stressed road infrastructure
+- **Monsoon Spike** — Fatalities nearly double between June–September, aligning with the Indian monsoon season
+- **Dry Road Paradox** — Dry roads have the highest accident count (310K), likely due to higher speeds and driver complacency
+- **Central India Risk** — Madhya Pradesh alone accounts for ~11% of all accidents nationally
+- **Human + Infrastructure** — Poor roads and human error together cause ~60% of all accidents
+- **Congestion Pressure** — Average congestion rate of 66.7% signals severely stressed road infrastructure
 
 ---
 
-## 🎛️ Filters & Interactivity
+## Filters & Interactivity
 
 The dashboard supports dynamic filtering by:
 - **Year** | **Severity** | **Weather** | **Road Condition**
@@ -126,12 +125,6 @@ A detailed project report (`Urban_Traffic_Accidents_Report.docx`) is included, c
 - Prioritise road resurfacing in Madhya Pradesh, Maharashtra & Tamil Nadu
 - Enforce speed limits on dry roads to counter complacency
 - Install smart traffic monitoring at identified hotspot intersections
-
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
